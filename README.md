@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security, Competetive Programming, Ethical Hacking
 - 🌱 I’m currently learning Ethical Hacking.
 - 💞️ I’m looking to collaborate on Data Science.
-- 📫 How to reach me Email: pirate_nohan@protonmail.com
+- 📫 How to reach me Email: s.m.arafatnishan2@gmail.com
 
 <!---
 zaynnissan/zaynnissan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
